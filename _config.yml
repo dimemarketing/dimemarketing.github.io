@@ -19,22 +19,22 @@ people:
   position: CEO
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/DiegoMateos
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/diemateos
+    - title: linkedin
+      url: https://es.linkedin.com/in/diego-mateos-73736311/en
 
 - name: Brian David Hall
   pic: 2
   position: CTO
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/_bruab_
     - title: facebook
-      url: #
+      url: https://www.facebook.com/hall.brian.david
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/briandavidhall
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
