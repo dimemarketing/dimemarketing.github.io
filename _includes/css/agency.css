@@ -18,6 +18,10 @@ body {
     color: #{{ site.color.primary }};
 }
 
+.white-text {
+    color: #DDD;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
