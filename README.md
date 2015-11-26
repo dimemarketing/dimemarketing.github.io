@@ -1,3 +1,3 @@
-dimemarketing.github.com
+dimemarketing.github.io
 
-see it online at [http://dimemarketing.com](http://dimemarketing.com)
+see it online at [http://dimemarketing.es](http://dimemarketing.es)
